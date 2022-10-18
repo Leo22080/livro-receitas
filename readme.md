@@ -1,5 +1,5 @@
-# Livro de Receitas
+# Livro de Receitas 👨‍🍳
 
-### Olá! Bem vindo ao livro de receitas
+### Olá! Bem vindo ao livro de receitas 👋
 - Strogonoff de frango
 - Bolo de Cenoura
